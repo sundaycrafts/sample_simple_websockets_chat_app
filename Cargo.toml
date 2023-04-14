@@ -1,0 +1,2 @@
+[workspace]
+members = ["ws_onconnect", "ws_ondisconnect", "ws_sendmessage"]
